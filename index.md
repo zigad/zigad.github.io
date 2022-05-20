@@ -4,77 +4,49 @@ Welcome to my personal website.
 
 ## Experience
 
-Software Engineer
-Gamanza Group AG
-Apr 2022 - Present
-
-Development Engineer
-ORYX Gaming
-Mar 2020 - Mar 2022
-
-Developer
-Agiledrop
-Jan 2020 - Mar 2020
-
-IT Support Specialist
-HS Plus
-Apr 2019 - Sep 2019
-
-Software Quality Engineer
-HS Plus
-Dec 2018 - April 2019
-
-Videographer / Drone Operator
-Aleš Deisinger S.P.
-Apr 2014 - Apr 2019
-
-Teaching Assistant
-B2 d.o.o.
-Sep 2016 - Dec 2018
-
-Videographer
-Collegium Mondial Travel
-Jan 2017 - Dec 2018
-
-Representative
-Intelekta
-May 2018 - Aug 2018
-
-Guide
-GoOpti
-Apr 2018 - Jun 2018
-
-Sales Representative
-EPL d.o.o.
-Mar 2019 - Jun 2018
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-
-## Header 2
-
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zigad/zigad.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<dl>
+    <dt>Software Engineer</dt>
+    <dd>
+        <ul>Gamanza Group AG<br>Apr 2022 - Present </ul>
+    </dd>
+    <dt>Development Engineer</dt>
+    <dd>
+        <ul>ORYX Gaming<br>Mar 2020 - Mar 2022</ul>
+    </dd>
+    <dt>Developer</dt>
+    <dd>
+        <ul>Agiledrop<br>Jan 2020 - Mar 2020</ul>
+    </dd>
+    <dt>IT Support Specialist</dt>
+    <dd>
+        <ul>HS Plus<br>Apr 2019 - Sep 2019</ul>
+    </dd>
+    <dt>Software Quality Engineer</dt>
+    <dd>
+        <ul>HS Plus<br>Dec 2018 - April 2019</ul>
+    </dd>
+    <dt>Videographer / Drone Operator</dt>
+    <dd>
+        <ul>Aleš Deisinger S.P.<br>Apr 2014 - Apr 2019</ul>
+    </dd>
+    <dt>Teaching Assistant</dt>
+    <dd>
+        <ul>B2 d.o.o.<br>Sep 2016 - Dec 2018</ul>
+    </dd>
+    <dt>Videographer</dt>
+    <dd>
+        <ul>Collegium Mondial Travel<br>Jan 2017 - Dec 2018</ul>
+    </dd>
+    <dt>Representative</dt>
+    <dd>
+        <ul>Intelekta<br>May 2018 - Aug 2018</ul>
+    </dd>
+    <dt>Guide</dt>
+    <dd>
+        <ul>GoOpti<br>Apr 2018 - Jun 2018</ul>
+    </dd>
+    <dt>Sales Representative</dt>
+    <dd>
+        <ul>EPL d.o.o.<br>Mar 2019 - Jun 2018</ul>
+    </dd>
+</dl>
