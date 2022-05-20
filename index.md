@@ -1,18 +1,61 @@
-## Welcome to GitHub Pages
+# Žiga Deisinger
 
-You can use the [editor on GitHub](https://github.com/zigad/zigad.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my personal website.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Experience
 
-### Markdown
+Software Engineer
+Gamanza Group AG
+Apr 2022 - Present
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Development Engineer
+ORYX Gaming
+Mar 2020 - Mar 2022
+
+Developer
+Agiledrop
+Jan 2020 - Mar 2020
+
+IT Support Specialist
+HS Plus
+Apr 2019 - Sep 2019
+
+Software Quality Engineer
+HS Plus
+Dec 2018 - April 2019
+
+Videographer / Drone Operator
+Aleš Deisinger S.P.
+Apr 2014 - Apr 2019
+
+Teaching Assistant
+B2 d.o.o.
+Sep 2016 - Dec 2018
+
+Videographer
+Collegium Mondial Travel
+Jan 2017 - Dec 2018
+
+Representative
+Intelekta
+May 2018 - Aug 2018
+
+Guide
+GoOpti
+Apr 2018 - Jun 2018
+
+Sales Representative
+EPL d.o.o.
+Mar 2019 - Jun 2018
+
 
 ```markdown
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
