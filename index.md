@@ -1,8 +1,8 @@
-# Žiga Deisinger
+---
+layout: default
+---
 
-Welcome to my personal website.
-
-## Experience
+# Experience
 
 <dl>
     <dt>Software Engineer</dt>
