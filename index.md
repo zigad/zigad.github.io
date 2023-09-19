@@ -6,7 +6,11 @@ layout: default
 # Experience
 
 <dl>
-    <dt>Software Engineer</dt>
+    <dt>IT Engineering Specialist</dt>
+    <dd>
+        <ul>Petrol Group d.d.<br>Sep 2023 - Present </ul>
+    </dd>
+    <dt>Development Engineer</dt>
     <dd>
         <ul>Gamanza Group AG<br>Apr 2022 - Present </ul>
     </dd>
