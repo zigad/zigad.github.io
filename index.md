@@ -6,13 +6,21 @@ layout: default
 # Experience
 
 <dl>
-    <dt>IT Engineering Specialist</dt>
+    <dt>Head of Digitalization</dt>
     <dd>
-        <ul>Petrol Group d.d.<br>Sep 2023 - Present </ul>
+        <ul>Skupina RAM<br>Sep 2025 - Present</ul>
+    </dd>
+    <dt>Information Technology Architect</dt>
+    <dd>
+        <ul>Undisclosed<br>Jan 2025 - May 2025</ul>
+    </dd>
+    <dt>Senior IT Software Engineer</dt>
+    <dd>
+        <ul>Petrol Group d.d.<br>Sep 2023 - Dec 2024</ul>
     </dd>
     <dt>Development Engineer</dt>
     <dd>
-        <ul>Gamanza Group AG<br>Apr 2022 - Present </ul>
+        <ul>Gamanza Group AG<br>Apr 2022 - Aug 2023</ul>
     </dd>
     <dt>Development Engineer</dt>
     <dd>
