@@ -1,8 +1,8 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: Ziga Deisinger
-description: Personal Webpage
+title: Žiga Deisinger
+description: Head of Digitalization focused on scalable digital products, APIs, and energy-tech platforms.
 show_downloads: false
 github:
   is_project_page: false
