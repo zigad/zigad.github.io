@@ -21,7 +21,7 @@
 title: Žiga Deisinger
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal site for Žiga Deisinger, Head of Digitalization at RAM Group.
+  Tech-forward leader and hands-on software engineer focused on digital transformation, scalable systems, and practical innovation that delivers real business value.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
