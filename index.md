@@ -7,22 +7,48 @@ layout: default
 
 **Head of Digitalization @ RAM Group** · Ljubljana, Slovenia
 
-Tech-forward leader and full-time developer focused on building scalable, secure digital solutions that improve business outcomes and user experiences. I’m passionate about innovation, data-driven decision making, and meaningful collaboration.
+Tech-forward leader and full-time developer passionate about innovation, digital transformation, and building solutions that improve business outcomes and user experiences.
 
 ---
 
 ## About
 
-I’m a tech-savvy builder who loves turning ideas into reliable products and platforms. My work blends strategy, architecture, and hands-on development — from microservices and APIs to energy-tech and IoT solutions. Outside of work, I explore emerging technologies, contribute to open source, and volunteer on initiatives that improve accessibility and community resilience.
+I'm a tech-savvy individual with a passion for innovation and exploring the latest advancements in the tech world. As a full-time developer, I'm constantly coding away to develop cutting-edge solutions and products that drive business growth and enhance user experiences.
+
+When I'm not working, you'll find me testing out new gadgets, experimenting with the latest technology trends, and keeping up-to-date with the latest news in the industry. I'm highly self-motivated, and I take responsibility seriously, always striving to be the best version of myself.
+
+I believe that meaningful connections and genuine conversations are the key to building strong relationships and achieving success, both personally and professionally. I value collaboration, teamwork, and transparency, and I'm always looking for new opportunities to learn and grow.
 
 ---
 
-## Focus Areas
+## Top Skills
 
-- Digital transformation and system architecture
-- Scalable microservices and API ecosystems
-- Energy, IoT, and sustainability-focused platforms
-- Security-minded engineering and governance
+**Software Development · API Development · Object-Oriented Programming (OOP) · Java**
+
+---
+
+## Featured Posts
+
+### ZInfV-1 & NIS2 Readiness
+Danes sem se udeležil konference ZInfV-1, ki jo je organiziral URSIV. Ključni poudarki:
+- Ločevanje zavezancev na bistvene in pomembne subjekte
+- Samoprepoznava in samoregistracija kot temelj odgovornega delovanja
+- Neposredna odgovornost poslovodstev
+- Obvezno usposabljanje poslovodstev do konca 2025
+- Prihajajo smernice in delavnice za skladnost
+- Spodbuda k razvoju kulture varnostne ozaveščenosti
+
+### Volunteering with Google Road Mapper
+Contributing to the community through mapping is one of the meaningful ways I spend my free time. Recent highlights:
+- 🚗 Total kilometers drawn: 4825 km
+- 🌍 4401 Challenges completed
+- 🇿🇦 South Africa: 2624,7 km · 🇺🇬 Uganda: 672 km · 🇹🇿 Tanzania: 700,5 km · 🇨🇩 DR Congo: 237,4 km · 🇵🇰 Pakistan: 157,6 km
+
+### Open-Source Contributions (evcc)
+I'm proud to regularly contribute to open-source projects like **evcc** (☀️🚘). Supporting open-source projects can be through code, documentation, translations, or simply helping others. Every contribution counts. https://evcc.io/en/
+
+### MakeIT 2024 & JCON OpenBlend Slovenia
+An incredible experience in Portorož with insightful talks on Quarkus and modern tech, plus hands-on workshops and great networking. Already looking forward to next year!
 
 ---
 
@@ -31,8 +57,11 @@ I’m a tech-savvy builder who loves turning ideas into reliable products and pl
 **Head of Digitalization — RAM Group** (Sep 2025–Present)
 - Leading digital transformation initiatives and modernizing core systems.
 
+**Career Break — Health & Well-being** (May 2025–Sep 2025)
+- Focused on a transformative health and lifestyle reset, building discipline and renewed clarity.
+
 **Information Technology Architect — Undisclosed** (Jan 2025–May 2025)
-- End-to-end system architecture, data modeling, and integration strategy.
+- End-to-end ownership of system architecture, data modeling, and integration strategy.
 - Defined technical specifications, rollout plans, and enablement workflows.
 
 **Senior IT Software Engineer — Petrol Group** (Sep 2023–Dec 2024)
@@ -57,7 +86,7 @@ I’m a tech-savvy builder who loves turning ideas into reliable products and pl
 
 ## Projects
 
-- **Charging Stations in Slovenia** — Java app to sync EV charging station data from local providers.
+- **Charging Stations in Slovenia** — Java application that fetches EV charging stations and syncs new data.
 - **Kam Bus – Vozni Red** — Timetable app for Kam-Bus d.o.o. routes.
 - **Click Click!** — Casual tapping game for iOS and Apple Watch.
 - **Guide for Stargate Atlantis / SG-1** — Fan companion apps.
@@ -65,24 +94,13 @@ I’m a tech-savvy builder who loves turning ideas into reliable products and pl
 
 ---
 
-## Community & Volunteering
+## Education
 
-- **Google Road Mapper Volunteer** — Mapping underserved regions to improve navigation access.
-- **Open Source Contributor** — Regular contributions to projects like **evcc**.
-- **Firefighter (PGD Kamnik)** — 2014–2022
-- **Teaching Assistant (Simbioza Genesis)** — 2011–2017, digital literacy for seniors.
+**B2 Srednja šola Ljubljana** — Computer Technician (2016–2018)
 
-**Causes:** Science & Technology, Health, Environmental Sustainability, Human Rights, Education.
+**Srednja Šola Domžale** — Computer Technician (2012–2016)
 
----
-
-## Skills
-
-**Software & Architecture:** Java, Quarkus, REST APIs, Microservices, PostgreSQL, RabbitMQ, Docker, GitFlow, GitOps
-
-**Platforms & Tools:** Microsoft Azure, Maven, Gradle, GitHub, Linux
-
-**Additional:** Project Management, Clean Coding, Event-Driven Systems
+**OŠ Frana Albrehta Kamnik** — Primary School (2004–2012)
 
 ---
 
@@ -93,11 +111,20 @@ I’m a tech-savvy builder who loves turning ideas into reliable products and pl
 - Ham Radio Licence (S54ZGA)
 - Certified First Responder
 - Remote Pilot Certification A1/A3
+- Bambu Lab Academy Certificates (A1 mini, P1S)
 
 ---
 
-## Highlights
+## Volunteering
 
-- Speaker and attendee at tech conferences (MakeIT 2024, JCON OpenBlend).
-- Passionate about open-source sustainability and community impact.
-- Advocate for cybersecurity awareness and governance alignment.
+- **Firefighter — PGD Kamnik** (2014–2022)
+- **Teaching Assistant — Simbioza** (2011–2017)
+- **Firefighter — PGD Tunjice** (2005–2008)
+- **Videographer — Kamfest** (2014, 2015, 2016)
+
+---
+
+## Languages
+
+- English — Full professional proficiency
+- Slavic languages — Limited working proficiency
