@@ -23,8 +23,14 @@ Object-Oriented Programming (OOP) · Integration Patterns · Security & Performa
 
 ## Experience
 
+### **Technology Lead for Digital Platform — A1 Slovenija d.d.**  
+*Jun 2026 – Present*
+- Leading digital platform initiatives across architecture, cloud, security, and software engineering.
+- Driving scalable platform design and delivery aligned with business and product goals.
+- Coordinating technical direction across integrations, systems, and digital services.
+
 ### **Head of Digitalization — RAM Group**  
-*Sep 2025 – Present*
+*Sep 2025 – May 2026*
 - Leading group-wide digital transformation initiatives.
 - Modernizing core business systems and defining long-term digital strategy.
 - Bridging business requirements and technical execution across teams.
